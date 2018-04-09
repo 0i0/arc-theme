@@ -13,8 +13,8 @@
 <constant name="C_title_focused" value="#70788d" />
 <constant name="C_title_unfocused" value="#979dac" />
 
-<constant name="C_wm_bg_focused" value="#e7e8eb" />
-<constant name="C_wm_bg_unfocused" value="#e7e8eb" />
+<constant name="C_wm_bg_focused" value="#1E272C" />
+<constant name="C_wm_bg_unfocused" value="#1E272C" />
 
 <constant name="C_wm_highlight" value="#eeeff1" />
 
